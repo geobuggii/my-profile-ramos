@@ -1,0 +1,25 @@
+<?xml version="1.0"encoding="UTF-8"?>
+
+<passionProject>
+    <project>
+        <title>StillWithG</title>
+        <description>I enjoy capturing still moments and creating visual stories 
+        through photography and filming. This allows me to explore my creativity
+        And see ordinary things from different perspectives.</description>
+        <date>2026</date>
+    </project>
+     
+    <project>
+        <title>Spotlight</title>
+        <description>Dancing is one of the ways I express myself and serve God.
+        Through dance, I can combine my passion for dance with my faith.</description>
+        <date>2026</date>
+    </project>
+    
+    <project>
+        <title>Made of Little Things</title>
+        <description>I enjoy exploring different creative activities, such as drawing and crocheting. 
+        These hobbies allow me to express my ideas and create something personal uwing my own hands. </description>
+        <date>2026</date>
+    </project>  
+</passionProject>
